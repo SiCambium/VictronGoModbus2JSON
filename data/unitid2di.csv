@@ -1,0 +1,44 @@
+Unit ID, /DeviceInstance,Remark
+100,0,Workaround for clients that do not support unit ID 0
+204,262,
+205,263,
+206,264,
+207,265,
+208,266,
+209,267,
+210,268,
+211,269,
+212,270,
+213,271,
+214,272,
+215,280,
+216,281,
+217,282,
+218,283,
+219,284,
+220,285,
+221,286,
+222,287,
+223,277,Cerbo GX VE.Direct port 3 (ttyS5)
+224,278,Cerbo GX VE.Direct port 2 (ttyS6)
+225,512,CAN-bus BMS
+226,279,Cerbo GX VE.Direct port 1 (ttyS7)
+227,276,Cerbo GX VE.Bus port (ttyS4)
+228,275,EasySolar-II/Multiplus-II GX VE.Bus port (ttyS3)
+229,274,EasySolar-II/Multiplus-II GX VE.Direct port (ttyS2)
+230,273,EasySolar-II/Multiplus-II GX VE.Direct port (ttyS1)
+231,295,VE.Direct via USB, Octo GX VE.Direct 9 (ttyUSB7)
+232,294,VE.Direct via USB, Octo GX VE.Direct 8 (ttyUSB6)
+233,293,VE.Direct via USB, Octo GX VE.Direct 7 (ttyUSB5)
+234,296,VE.Direct via USB, Octo GX VE.Direct 10 (ttyUSB8)
+235,292,VE.Direct via USB, Octo GX VE.Direct 6 (ttyUSB4)
+236,291,VE.Direct via USB, Octo GX VE.Direct 5 (ttyUSB3)
+237,290,VE.Direct via USB, Octo GX VE.Direct 4 (ttyUSB2)
+238,289,VE.Direct via USB, Octo GX VE.Direct 3 (ttyUSB1)
+239,288,VE.Direct via USB (ttyUSB0)
+242,261,Venus GX VE.Bus port (ttyO5)
+243,260,Venus GX VE.Direct 2 port (ttyO4)
+244,259,
+245,258,"CCGX VE.Direct 2 port, Venus GX VE.Direct 1 port (ttyO2)"
+246,257,CCGX VE.Bus port (ttyO1)
+247,256,CCGX VE.Direct 1 port (ttyO0)

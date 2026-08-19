@@ -1,0 +1,4 @@
+/victron-modbus-json
+*.json
+*.xlsx
+.venv/
